@@ -1,2 +1,2 @@
 # games
-classic games in js
+classical snakes games write in Javascript
